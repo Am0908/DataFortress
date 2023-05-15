@@ -1,0 +1,4 @@
+
+This is a team Project made during Barclays Stellar Hackathon 2023
+
+Implemented a data protection program to secure customer data for a financial services company 
