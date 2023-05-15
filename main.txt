@@ -2,3 +2,6 @@
 This is a team Project made during Barclays Stellar Hackathon 2023
 
 Implemented a data protection program to secure customer data for a financial services company 
+
+Used Java as Backend , SQL database , AES (Advanced Encryption Standard ) encryption , decryption with proper key management mechanism ,
+Amazon RDS and KMS for large amount of data .
